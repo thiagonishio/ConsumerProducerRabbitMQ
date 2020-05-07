@@ -4,8 +4,8 @@ Teste básico RabbitMQ
 ## Como usar
 
 - Necessário a última versão do Visual Studio 2019, a versão 3.1 do .NET Core SDK 
-- Erlang versão 22.3 (requisito para rodar o RabbitMQ Server)
-- RabbitMQ Server 3.8.3
+- Erlang versão 22.3 (requisito para rodar o RabbitMQ Server) (download em https://www.erlang.org/downloads)
+- RabbitMQ Server 3.8.3 (download em https://www.rabbitmq.com/download.html)
 
 ## Tecnologias utilizadas:
 
