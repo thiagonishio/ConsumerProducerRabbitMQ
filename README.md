@@ -15,7 +15,7 @@ Teste básico RabbitMQ
 
 ## Como rodar
 
-1. Instalar o Erlang
+1. Instalar o Erlang (usuário administrador)
 2. Instalar o RabbitMQ server
 3. Produzir as mensagens rodando o projeto Producer Debug => Start Without Debugging ou [Ctrl]+[F5]
 4. Visualizar as mensagens rodando o projeto Consumer Debug => Start Without Debugging ou [Ctrl]+[F5]
